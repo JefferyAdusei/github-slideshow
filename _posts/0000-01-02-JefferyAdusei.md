@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This is also part of the gitlab tutorial
+Managing the new file via a pull request
 Use the left arrow to go back!
